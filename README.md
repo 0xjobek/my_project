@@ -8,3 +8,5 @@ A tutorial app designed to show how easy it is to create a file-sharing app with
 2. Change into project folder
 3. `npm install`
 4. `npm run dev`
+5. Upgrade
+
